@@ -33,4 +33,4 @@ I'm a CSE student focused on building strong programming fundamentals, problem-s
 
 ---
 
-Consistency beats motivation.
+                      Consistency beats motivation.

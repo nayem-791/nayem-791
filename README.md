@@ -43,4 +43,4 @@ Focused on building strong programming fundamentals, problem-solving skills, and
 
 ---
 
-Consistency beats motivation.
+# Consistency beats motivation.

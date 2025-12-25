@@ -2,13 +2,12 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=cy-rayhanul&style=flat&color=blue)
 
-I'm a CSE student focused on building strong programming fundamentals, problem-solving skills, and C++ programming.
+I'm focused on building strong programming fundamentals, problem-solving skills, and mastering C++ programming.
 
 ---
 
 ## About Me
-- Studying Computer Science & Engineering  
-- Skilled in C++ and programming logic  
+- Studying Computer Science & Engineering at Varendra University  
 - Building skills step by step with discipline and consistency  
 
 ---

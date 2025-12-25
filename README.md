@@ -28,7 +28,7 @@ I'm focused on building strong programming fundamentals, problem-solving skills,
 ---
 
 ## Contact
-- GitHub: [https://github.com/cy-rayhanul](https://github.com/cy-rayhanul)
+- Email: nayem791.bd@gmail.com
 
 ---
 

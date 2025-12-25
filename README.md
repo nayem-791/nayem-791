@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nayem791.bd@gmail.com**
 
-- ⚡ Fun fact **I think, I am really toxic.**
+- ⚡ Fun fact **I think, I am really toxic for non coder.**
 
 <p align="left">
 </p>

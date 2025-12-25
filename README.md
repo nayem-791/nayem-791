@@ -1,6 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=nayem-791&style=flat&color=blue)
+# Hi, I'm Nayem
 
-I’m Nayem — a CSE student focused on building strong programming fundamentals and mastering C++ problem-solving skills.
+![Profile views](https://komarev.com/ghpvc/?username=cy-rayhanul&style=flat&color=blue)
+
+I'm a CSE student focused on building strong programming fundamentals, problem-solving skills, and C++ programming.
 
 ---
 
@@ -27,7 +29,7 @@ I’m Nayem — a CSE student focused on building strong programming fundamental
 ---
 
 ## Contact
-- GitHub: [https://github.com/nayem-791](https://github.com/nayem-791)
+- GitHub: [https://github.com/nayem-791](https://github.com/cy-rayhanul)
 
 ---
 

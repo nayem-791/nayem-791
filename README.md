@@ -28,7 +28,7 @@ Focused on building strong programming fundamentals, problem-solving skills, and
 
 ## Online Judge Profiles
 - Codeforces: [cy-rayhanul](https://codeforces.com/profile/cy-rayhanul)  
-- LeetCode: [cy-rayhanul](https://leetcode.com/cy-rayhanul/)
+- LeetCode: [cy-rayhanul](https://leetcode.com/cy-rayhanul/)  
 
 ---
 

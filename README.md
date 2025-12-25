@@ -27,7 +27,6 @@ Focused on building strong programming fundamentals, problem-solving skills, and
 ---
 
 ## Online Judge Profiles
-- Beecrowd: [cy.rayhanul](https://www.beecrowd.com.br/judge/en/profile/cy.rayhanul)  
 - Codeforces: [cy-rayhanul](https://codeforces.com/profile/cy-rayhanul)  
 - LeetCode: [cy-rayhanul](https://leetcode.com/cy-rayhanul/)
 

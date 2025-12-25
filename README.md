@@ -1,8 +1,6 @@
-#                           Hi, I'm Nayem
-
 ![Profile views](https://komarev.com/ghpvc/?username=nayem-791&style=flat&color=blue)
 
-I'm a CSE student focused on building strong programming fundamentals, problem-solving skills, and C++ programming.
+I’m Nayem — a CSE student focused on building strong programming fundamentals and mastering C++ problem-solving skills.
 
 ---
 
@@ -33,4 +31,4 @@ I'm a CSE student focused on building strong programming fundamentals, problem-s
 
 ---
 
-                      Consistency beats motivation.
+Consistency beats motivation.

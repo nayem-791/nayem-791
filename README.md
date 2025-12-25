@@ -29,7 +29,7 @@ I'm a CSE student focused on building strong programming fundamentals, problem-s
 ---
 
 ## Contact
-- GitHub: [https://github.com/nayem-791](https://github.com/cy-rayhanul)
+- GitHub: [https://github.com/cy-rayhanul](https://github.com/cy-rayhanul)
 
 ---
 
